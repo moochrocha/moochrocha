@@ -16,7 +16,7 @@ Gosto de unir **análise técnica e visão de negócio** para otimizar processos
 Tenho mais de **1 ano de experiência em análise de dados** e atualmente curso **Ciência de Dados**.  
 Atuo em todo o ciclo de projetos — da coleta e tratamento até a visualização dos dados.
 
----
+--
 ## 🎯 Objetivo
 
 Tornar-me um **especialista na área de Dados**, combinando habilidades técnicas e visão de negócio para criar soluções de alto impacto.
